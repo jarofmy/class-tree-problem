@@ -3,9 +3,10 @@
 Solution method, `find_ordering(dependencies)`, is included in `solution.py`
 
 This function takes an object containing the dependencies and returns any
-single valid ordering as an array.
+single valid ordering as an array. The function runs with different dependencies 
+inputs within the unittest file, `test_solution.py`.
 
-To run solution:
+To run solution with given input from prompt:
 
 
 ```
